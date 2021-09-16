@@ -9,4 +9,8 @@ h2 {
 }
 p {
 	color: black;
+	font-family: serif;
+}
+pre {
+	font-family: serif;
 }
