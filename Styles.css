@@ -3,9 +3,11 @@ body {
 }
 h1 {
 	color: teal;
+	font-size:2vw;
 }
 h2 {
 	color: teal;
+	font-size:2vw;
 }
 h3 {
 	color: white;
@@ -13,9 +15,11 @@ h3 {
 p {
 	color: black;
 	font-family: serif;
+	font-size:1vw;
 }
 pre {
 	font-family: Sans-serif;
+	font-size:1vw;
 }
 body {
 		height: 100vh;
